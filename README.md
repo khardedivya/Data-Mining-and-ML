@@ -18,6 +18,9 @@ The T20 World Cup Match Score Prediction project aims to predict the outcome of 
 2. Install required libraries:
  pip install -r requirements.txt
 
+A XgBoost based Cricket Score Predictor
+Dataset: https://www.kaggle.com/veeralakrishna/cricsheet-a-retrosheet-for-cricket?select=t20s
+
 
 ### Usage
 1. Run the GUI interface:
